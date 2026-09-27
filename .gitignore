@@ -1,15 +1,2 @@
-# Dependencies
-node_modules/
-
-# Python
-__pycache__/
-*.pyc
+node_modules
 .env
-
-# Build artifacts
-dist/
-build/
-
-# OS/System files
-.DS_Store
-Thumbs.db   
