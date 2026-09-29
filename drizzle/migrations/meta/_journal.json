@@ -15,6 +15,13 @@
       "when": 1790691105353,
       "tag": "0001_legal_phantom_reporter",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790695291664,
+      "tag": "0002_backfill_email_address",
+      "breakpoints": true
     }
   ]
 }
